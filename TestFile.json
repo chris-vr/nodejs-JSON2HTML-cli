@@ -1,0 +1,19 @@
+[
+	{	"Section":"TERMINOLOGY",
+		"terms":[
+			{	"Term":"Deep magic",
+				"Definition":"Code based on esoteric theoretical knowledge"
+			},
+			{	"Term":"Black magic",
+				"Definition":"Code based on techniques that appear to work but which lack a theoretical explanation"
+			}
+		]
+	},
+	{	"Section":"OTHER DEFINITIONS",
+		"terms":[
+			{	"Term":"CLI",
+				"Definition":"Command Line Interface-torus"
+			}
+		]
+	}
+]
